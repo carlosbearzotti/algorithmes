@@ -1,0 +1,29 @@
+# Compiled files
+*.class
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.pyc
+__pycache__/
+*.out
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
